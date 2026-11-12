@@ -1,0 +1,11 @@
+# BMW veritabanı: 129 MB, GitHub'ın 100 MB dosya sınırını aşıyor. OneDrive'da durur.
+/veri/bmw.sqlite
+/veri/bmw.sqlite.gz
+/veri/json.tar.gz
+
+# Sürüş kayıtları (araca ve kullanıcıya özel)
+/kayitlar/
+
+# Python geçici dosyaları
+__pycache__/
+*.pyc
